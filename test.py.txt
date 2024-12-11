@@ -2,3 +2,8 @@ first addition
 second additon
 feature
 hotfix
+development branch created
+pre-uat branch
+uat branch
+pre prod
+production
